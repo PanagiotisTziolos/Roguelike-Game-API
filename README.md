@@ -1,6 +1,8 @@
 # Individual-Project
 Simple loguelike game api using spring and react
 
+![Alt text](preview.gif)
+
 # Creadies 
 ### Sprites
 Authors: bluecarrot16, Benjamin K. Smith (BenCreating), Evert, Eliza Wyatt (ElizaWy), TheraHedwig, MuffinElZangano, Durrani, Johannes Sj?lund (wulax), Stephen Challener (Redshrike)

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.booleanuk.gameapi.GameApiApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-27T14:00:42" hostname="DESKTOP-L6JV6DS" time="1.567">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.booleanuk.gameapi.GameApiApplicationTests" time="1.567"/>
+  <system-out><![CDATA[17:00:38.209 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.booleanuk.gameapi.GameApiApplicationTests]: GameApiApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:00:38.458 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.booleanuk.gameapi.GameApiApplication for test class com.booleanuk.gameapi.GameApiApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-06-27T17:00:39.487+03:00  INFO 1892 --- [    Test worker] c.b.gameapi.GameApiApplicationTests      : Starting GameApiApplicationTests using Java 18.0.2.1 with PID 1892 (started by Redox in C:\Users\Redox\Desktop\Roguelike-Game-API\backend\game-api)
+2023-06-27T17:00:39.490+03:00  INFO 1892 --- [    Test worker] c.b.gameapi.GameApiApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-06-27T17:00:42.244+03:00  INFO 1892 --- [    Test worker] c.b.gameapi.GameApiApplicationTests      : Started GameApiApplicationTests in 3.339 seconds (process running for 5.731)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
